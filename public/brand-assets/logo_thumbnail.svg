@@ -1,25 +1,39 @@
-<svg
-  width="16"
-  height="16"
-  viewBox="0 0 16 16"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <g clip-path="url(#woot-logo-clip-2342424e23u32098)">
-    <path
-      d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z"
-      fill="#2781F6"
-    />
-    <path
-      d="M11.4172 11.4172H7.70831C5.66383 11.4172 4 9.75328 4 7.70828C4 5.66394 5.66383 4 7.70835 4C9.75339 4 11.4172 5.66394 11.4172 7.70828V11.4172Z"
-      fill="white"
-      stroke="white"
-      stroke-width="0.1875"
-    />
-  </g>
-  <defs>
-    <clipPath id="woot-logo-clip-2342424e23u32098">
-      <rect width="16" height="16" fill="white" />
-    </clipPath>
-  </defs>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 -0.46456692913398 283.4645669291399 283.464566929134" width="284" height="284">
+	<title>Valid_symbol</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(141.011,-141.011,264.969,264.969,-123.003,79.289)">
+			<stop offset=".053" stop-color="#f0517f"/>
+			<stop offset="1" stop-color="#ff821f"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(141.011,-141.011,264.969,264.969,.488,79.289)">
+			<stop offset="0" stop-color="#7b1fa2"/>
+			<stop offset=".857" stop-color="#dd2cd9"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(119.899,-119.899,173.615,173.615,-66.77,93.297)">
+			<stop offset="0" stop-color="#000000"/>
+			<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-119.899,-119.899,-173.615,173.615,350.235,93.297)">
+			<stop offset="0" stop-color="#000000"/>
+			<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { opacity: .53;mix-blend-mode: overlay;fill: url(#g3) } 
+		.s3 { opacity: .53;mix-blend-mode: overlay;fill: url(#g4) } 
+	</style>
+	<g id="Layer 1">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s0" d="m117.7 232.1l-63.1-41.7c-14.7-9.7-23.6-26.2-23.6-43.9v-90c0-4 3.3-7.3 7.3-7.3h33.1c31.8 0 57.6 25.8 57.6 57.6v119.2c0 5.8-6.5 9.3-11.3 6.1z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m165.8 232.1l63-41.7c14.8-9.7 23.7-26.2 23.7-43.9v-90c0-4-3.3-7.3-7.3-7.3h-33.1c-31.8 0-57.6 25.8-57.6 57.6v119.2c0 5.8 6.4 9.3 11.3 6.1z"/>
+				</g>
+			</g>
+			<path id="&lt;Path&gt;" class="s2" d="m71.4 49.2h-33.1c-4 0-7.3 3.3-7.3 7.3v0.1c0 23.9 13 45.8 33.6 57.9 56.8 33.5 64.4 76.6 64.4 76.6v-84.3c0-31.8-25.8-57.6-57.6-57.6z"/>
+			<path id="&lt;Path&gt;" class="s3" d="m212.1 49.2h33.1c4 0 7.3 3.3 7.3 7.3v0.1c0 23.9-13 45.8-33.6 57.9-56.8 33.5-64.4 76.6-64.4 76.6v-84.3c0-31.8 25.8-57.6 57.6-57.6z"/>
+		</g>
+	</g>
 </svg>

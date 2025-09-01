@@ -64,6 +64,7 @@ package-lock.json
 
 *.dump
 
+.pnpm-store/
 
 # cypress
 test/cypress/videos/*
